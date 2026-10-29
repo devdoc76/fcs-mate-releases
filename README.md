@@ -1,6 +1,6 @@
 # FCS Mate
 
-**Free flow cytometry analysis software.** Open FCS files apply gating strategies, and analyze your data, on macOS, Windows and Linux.
+**Free flow cytometry analysis software.** Open FCS files, apply gating strategies and analyze your data, on macOS, Windows and Linux.
 
 ## Download
 
@@ -31,6 +31,7 @@ The apps are not code-signed, so your system shows a warning the first time. Tha
 1. Unzip `FCS-Mate-macOS.zip` and drag *FCS Mate* into your Applications folder.
 2. On the first start, right-click the app and choose **Open**, then confirm.
    If macOS still refuses, run this once in the Terminal: `xattr -dr com.apple.quarantine "/Applications/FCS Mate.app"`
+   Sometimes it is required to **Settings**, **Privacy & Security**, scroll down and click on **Open Anyway**.
 
 **Windows**
 1. Run `FCS-Mate-Windows.exe`. No installation is needed.
