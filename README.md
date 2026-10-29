@@ -32,7 +32,7 @@ The apps are not code-signed, so your system shows a warning the first time. Tha
 2. On the first start, right-click the app and choose **Open**, then confirm.
    If macOS still refuses, run this once in the Terminal: `xattr -dr com.apple.quarantine "/Applications/FCS Mate.app"`
 
-   Sometimes it is required to **Settings**, **Privacy & Security**, scroll down and click on **Open Anyway**.
+   Sometimes it is required to go to **Settings**, **Privacy & Security**, scroll down and click on **Open Anyway**.
 
 **Windows**
 1. Run `FCS-Mate-Windows.exe`. No installation is needed.
