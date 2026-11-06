@@ -51,3 +51,7 @@ For private use only. Not a medical device. Not for clinical or diagnostic use. 
 Designed and directed by Dr. Georg Slavka.
 
 This repository only hosts the finished builds. The source code is not public.
+
+## Support
+
+FCS Mate is free. If it helps your work, you can support its development with a voluntary donation on [Ko-fi](https://ko-fi.com/fcsmate). Donations are entirely optional and do not include support, a warranty or any change to the terms above.
